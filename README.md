@@ -1,6 +1,6 @@
 # 🎮 Game Hub - Python
 
-Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**, my tech-inspired world of **fun and games**. Let's **play and learn together**! 🎉
+ 🚀 Welcome to **Game Hub**, my tech-inspired world of **fun and games**. Let's **play and learn together**! 🎉
 
 ---
 ## ✨ Features
@@ -56,13 +56,9 @@ Hey, it's **Grishma**, your **BTech tech friend**! 🚀 Welcome to **Game Hub**,
 🌟 **Multiplayer Mode** – Introduce multiplayer support for selected games.  
 🌟 **Cross-Platform Support** – Make **Game Hub** accessible on various platforms.
 
----
-## 🛠️ Getting Started
-
-🔹 **Download the source code:** [GameHub Project](https://github.com/GRISHMA-GEDELA/GameHub-Python.git)  
-🔹 **Run the script** and have fun! 🎉
 
 ---
 ## 🙌 Thank You!
-👩‍💻 **Developed by:** Grishma Gedela ([GRISHMA-GEDELA](https://github.com/GRISHMA-GEDELA), GameHub)
+👩‍💻 **Developed by:** B.Roopas Kumar**
+
 
